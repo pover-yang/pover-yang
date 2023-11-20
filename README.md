@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a passionate researcher currently diving deep into the realms of Computer Vision and Artificial Intelligence. 
+I am fascinated by the potential of these technologies to revolutionize the way we interact with the world. 
+My work primarily focuses on developing innovative algorithms and models to advance our understanding and application of these fields. 
+I am constantly seeking to learn, innovate, and contribute to the exciting world of AI and Computer Vision.
+
+
 <!--
 **pover-yang/pover-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
